@@ -1,66 +1,57 @@
-# 👋 Hi, I’m @chinmaydipke — Chinmay Dipke  
+# Hi 👋, I'm Chinmay Dipke
 
-## 👀 About Me  
-Hello! I'm a **Java Developer**, **Web Developer**, and an avid learner passionate about creating impactful software solutions. With a strong foundation in **Java**, **SQL**, **HTML**, **CSS**, and **JavaScript**, I enjoy building responsive, user-friendly applications and exploring:  
-- **Web Development**: Crafting interactive and visually appealing user interfaces.  
-- **Backend Development**: Developing robust and scalable server-side solutions using Java and SQL.  
- 
+### A Frontend Developer aspiring to become a Full Stack Developer
+![Coding Animation](./assets/thoughtworks-gif_dribbble.gif)
+![Multitasking Animation](./assets/Multitasking.gif)
 
----
-
-## 🌱 I’m Currently Learning  
-- Advanced **SQL Queries**: Triggers, table updates, and database optimization  
-- **Advanced Java**: Core Java, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA) in Java  
-- Enhancing my expertise in **Web Development**: Modern frameworks, responsive design, and dynamic applications  
-
----
-
-## 💞️ I’m Looking to Collaborate On  
-- Java-based projects, including **backend development** and **software solutions**  
-- Web development projects utilizing **HTML**, **CSS**, **JavaScript**, and modern frameworks  
-
-
----
-
-## 📫 How to Reach Me  
-- 📧 **Email**: [chinmaydipke@gmail.com]  
-- 🌐 **LinkedIn**: [https://www.linkedin.com/in/chinmaydipke/]  
-
----
-
-## 🛠️ Technologies I Work With  
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Work%20Culture%20(HD%20Visuals)/Multitasking.gif" alt="Multitasking Animation" width="400"/>
 </p>
 
+---
+
+- 🌱 **Currently learning:**  
+  *Java (DSA), Next.JS, TypeScript*
+
+- 💬 **Ask me about:**  
+  *DSA, React, MySQL, Next.js*
+
+- 📧 **Email:**  
+  [chinmay.dipke19@gmail.com](mailto:chinmay.dipke19@gmail.com)
 
 ---
 
-## 📚 Featured Projects  
-### 🏠 **Real Estate Site**  
-A comprehensive platform designed for real estate listing and management with an intuitive interface and seamless user experience.
+### 🌐 Connect with Me:
 
-### 📱 **BMI Calculator in Java (Android Project)**  
-A user-friendly Android application built in Java for calculating Body Mass Index (BMI) with features for health recommendations and data tracking.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChinmayDipke-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chinmaydipke/)  
 
-### 🎵 **Spotify Clone**  
-A functional music streaming app with a sleek UI, developed to replicate key features of Spotify, including playlists, search, and playback functionalities.
+[![LeetCode](https://img.shields.io/badge/LeetCode-ChinmayDipke-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Chinmay_Dipke/)
 
 ---
 
-## 🏆 Highlights  
-- Java Co-Lead  **Coding Club PRPCEM**
-- **NPTEL Elite Certifications**: Programming in Java
+### 🛠️ Languages & Tools:
 
-
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</p>
 
 ---
 
+### ❤️ Fun Fact: 
+> I love solving problems and building interactive web interfaces!
 
+---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories or connect with me for collaborations. 🚀  
+#### Made with ❤️ by Chinmay Dipke
