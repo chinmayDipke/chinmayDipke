@@ -1,8 +1,7 @@
 # Hi 👋, I'm Chinmay Dipke
 
 ### A Frontend Developer aspiring to become a Full Stack Developer
-![Coding Animation](./assets/thoughtworks-gif_dribbble.gif)
-![Multitasking Animation](./assets/Multitasking.gif)
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
