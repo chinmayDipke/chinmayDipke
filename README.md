@@ -14,7 +14,7 @@
   *Java (DSA), Next.JS, TypeScript*
 
 - 💬 **Ask me about:**  
-  *DSA, React, MySQL, Next.js*
+  *DSA, React, MySQL, js*
 
 - 📧 **Email:**  
   [chinmay.dipke19@gmail.com](mailto:chinmay.dipke19@gmail.com)
