@@ -3,10 +3,10 @@
 ### A Frontend Developer aspiring to become a Full Stack Developer
 
 
-<p align="center">
+<div style="text-align: center;">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Work%20Culture%20(HD%20Visuals)/Multitasking.gif" alt="Multitasking Animation" width="400"/>
-</p>
+</div>
 
 ---
 
