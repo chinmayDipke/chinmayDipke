@@ -11,7 +11,7 @@
 ---
 
 - 🌱 **Currently learning:**  
-  *Java (DSA), Next.JS, TypeScript*
+  *Java (DSA), Next.JS, TypeScript, React.JS*
 
 - 💬 **Ask me about:**  
   *DSA, MySQL*
