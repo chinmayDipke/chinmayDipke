@@ -17,7 +17,7 @@
   *DSA, MySQL*
 
 - 📧 **Email:**  
-  [chinmay.dipke19@gmail.com](mailto:dipkechinmay@gmail.com)
+  [dipkechinmay@gmail.com](mailto:dipkechinmay@gmail.com)
 
 ---
 
